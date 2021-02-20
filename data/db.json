@@ -2,20 +2,20 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
-      "complete": false
-    },
-    {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
+      "title": "Alfa Baldé",
+      "details": "Filho de Mariatu Baldé e de Mamadu Sabi Baldé",
       "complete": true
     },
     {
-      "title": "Designer a web site",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id animi placeat maiores iure fugiat repudiandae nulla adipisci voluptates est sint.",
-      "complete": false,
+      "id": 2,
+      "title": "Aua Mamadu Baldé",
+      "details": "Irma de Alfa Mamadu Baldé e de Fatamata Mamadu Baldé",
+      "complete": true
+    },
+    {
+      "title": "Mara Balde ",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+      "complete": true,
       "id": 3
     }
   ]
