@@ -2,21 +2,15 @@
   "projects": [
     {
       "id": 1,
-      "title": "Alfa Baldé",
-      "details": "Filho de Mariatu Baldé e de Mamadu Sabi Baldé",
-      "complete": true
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum.",
+      "complete": false
     },
     {
       "id": 2,
-      "title": "Aua Mamadu Baldé",
-      "details": "Irma de Alfa Mamadu Baldé e de Fatamata Mamadu Baldé",
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
       "complete": true
-    },
-    {
-      "title": "Mara Balde ",
-      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
-      "complete": true,
-      "id": 3
     }
   ]
 }
